@@ -1,5 +1,11 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+#### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
+
+
+# Desafio de Projeto sobre Git/GitHub
 Repositório criado para o Desafio de Projeto.
+
+
+## Professor Westerley da Silva Reis
 
 
 ## DESCRIÇÃO
