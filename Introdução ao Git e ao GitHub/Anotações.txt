@@ -33,3 +33,12 @@ Este comando permite ver quais arquivos estão sendo “rastreados” pelo git e
 
 - git merge
 Quando você concluir o desenvolvimento em sua branch e quando tudo funcionar bem, a etapa final é fazer o merge (mesclar ou unir, em português) da branch com a branch pai (dev ou master/main, em geral). Isso é feito com o comando git merge.
+
+
+Quando uso este comando $ git push origin master, ele exibe uma mensagem de erro.
+Você pode tentar esses comando abaixo.
+
+git fetch origin master:tmp
+git rebase tmp
+git push origin HEAD:master
+git branch -D tmp
